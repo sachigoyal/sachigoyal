@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachigoyal
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning python beginner
+- 👀 I’m interested in AI, Web3, Full stack development
+- 🌱 I’m currently learning Web3, Full stack development.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
